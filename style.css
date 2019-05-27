@@ -7,7 +7,7 @@ Customize by : Vulchi Vijay
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
-@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro);
 h1,h2,h3,h4,h5,h6{font-family: 'Source Sans Pro', sans-serif;font-weight:normal;color:#fff;}
 h1,h2,h3,h4,h5,h6,figcaption{text-transform:capitalize;}
 
